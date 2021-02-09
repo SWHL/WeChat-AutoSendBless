@@ -6,7 +6,7 @@
 
 - [hyb1996/Auto.js](https://github.com/hyb1996/Auto.js)
 - [Auto.js文档](https://hyb1996.github.io/AutoJs-Docs/)
-- [Auto.js 4.1.1 Alpha2 APK](链接：https://pan.baidu.com/s/167Vq-2754NIo054PPOdtWg) 提取码：z4bh
+- [Auto.js 4.1.1 Alpha2 APK](https://pan.baidu.com/s/167Vq-2754NIo054PPOdtWg) 提取码：z4bh
 
 ##### 方案二：uiautomator2(仅限安卓)
 
