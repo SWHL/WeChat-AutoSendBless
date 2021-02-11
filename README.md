@@ -8,7 +8,7 @@
 - [Auto.js文档](https://hyb1996.github.io/AutoJs-Docs/)
 - [Auto.js 4.1.1 Alpha2 APK](https://pan.baidu.com/s/167Vq-2754NIo054PPOdtWg) 提取码：z4bh
 
-##### 方案二：uiautomator2(仅限安卓)
+##### 方案二：uiautomator2(仅限安卓) 目前采用的✧✧✧
 
 - [openatx/uiautomator2](https://github.com/openatx/uiautomator2)
 
