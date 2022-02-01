@@ -1,2 +1,6 @@
-uiautomator2                  2.12.2
-tqdm                          4.46.1
+uiautomator2==2.12.2
+tqdm==4.46.1
+pyperclip==1.8.0
+PyAutoGUI==0.9.53
+numpy==1.19.5
+rapidocr==1.0.0
